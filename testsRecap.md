@@ -1,1 +1,1 @@
-Test 1 : UnsupportedMimeTypeExceptionTest
+Test 1 : UnsupportedMimeTypeExceptionTest (juste pour se familiariser avec JUnit et l'action github)
